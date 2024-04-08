@@ -8,6 +8,11 @@
 
 이러한 생각에 착안하여 탄생한 서비스가 `내 손안의 냉장고` , <U>당</U>신의 냉장<U>고</U> **당고** 입니다.
 
+자세한 내용은 다음 위키에서 보실 수 있습니다
+
+- [프론트엔드 wiki](https://github.com/SSAFY-DANGO/FrontEnd/wiki)
+- [백엔드 wiki](https://github.com/SSAFY-DANGO/BackEnd/wiki) 
+
 # 주요기능
 
 ### 냉장고(신선칸) 식재료 추적
