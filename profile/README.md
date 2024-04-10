@@ -10,7 +10,8 @@
 
 자세한 내용은 다음 위키에서 보실 수 있습니다
 
-- [백엔드팀 위키](https://github.com/SSAFY-DANGO/BackEnd/wiki) 
+- [백엔드팀 위키](https://github.com/SSAFY-DANGO/BackEnd/wiki)
+- [프론트팀 위키](https://github.com/SSAFY-DANGO/FrontEnd/wiki)
 
 
 # 주요기능
