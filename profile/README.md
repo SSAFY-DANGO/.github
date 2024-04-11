@@ -45,8 +45,8 @@
 |백엔드,AI|백엔드,인프라,IoT|백엔드,인프라|프론트|프론트|
 
 # 아키텍쳐
+![DANGO drawio (1)](https://github.com/SSAFY-DANGO/.github/assets/42714724/22ee4b42-8c21-4f60-968e-88ae4b023921)
 
-![DANGO drawio (1)](https://github.com/SSAFY-DANGO/wiki/assets/42714724/e7d4fc80-5657-4859-84b9-1fea17e1552f)
 
 # 기술스택
 
